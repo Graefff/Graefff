@@ -1,5 +1,9 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=graefff&amp;show_icons=true" alt="GitHub Stats"></p>
 
+<!---
+![Profile view counter](https://komarev.com/ghpvc/?username=graefff)
+-->
+
 <div align="center">
 <table>
   <tr>
