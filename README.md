@@ -1,4 +1,3 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/Graefff/Graefff)
 ***
 #### TechStack, tools and technologies that i'm familiar with:
 ![](https://img.shields.io/badge/adguard-68BC71?style=for-the-badge&logo=adguard&logoColor=white)
@@ -38,7 +37,7 @@
 ![](https://img.shields.io/badge/zerotier-FFB441?style=for-the-badge&logo=zerotier&logoColor=white)
 ***
 #### My stats:
-<div align="center"><img height="200em" src="https://github-readme-stats.vercel.app/api?username=Graefff&show_icons=true&theme=dark&include_all_commits=true&count_private=true" ><img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Graefff&layout=compact&langs_count=7&theme=dark" /></div>
+<div align="center"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=Graefff&show_icons=true&theme=dark&include_all_commits=true&count_private=true" ><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Graefff&layout=compact&langs_count=7&theme=dark" /></div>
 
 ***
 
