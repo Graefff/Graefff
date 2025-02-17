@@ -6,6 +6,7 @@
 ![](https://img.shields.io/badge/calendar-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)
 ![](https://img.shields.io/badge/chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![](https://img.shields.io/badge/cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![](https://img.shields.io/badge/cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![](https://img.shields.io/badge/debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![](https://img.shields.io/badge/docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)
 ![](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -49,7 +50,7 @@
 
 ***
 
-Happy to help translate your open-source project between English and pt-br. Contact me if needed.
+### Happy to help translate your open-source project between English and pt-br. Contact me if needed.
 
 #### I'm currently helping with the translation of:
 ![Static Badge](https://img.shields.io/badge/triliumnext-000000?logo=trilium&link=https%3A%2F%2Fgithub.com%2FTriliumNext%2FNotes)
