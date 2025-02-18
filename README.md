@@ -1,7 +1,7 @@
-***
-#### TechStack, tools and technologies that i'm familiar with:
+#### TechStack, tools and technologies that I'm familiar with:
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 3px;">
+<!--suppress ALL -->
+<p align="justify">
     <img src="https://img.shields.io/badge/adguard-68BC71?style=for-the-badge&logo=adguard&logoColor=white" alt="AdGuard Logo" />
     <img src="https://img.shields.io/badge/alexa-00CAFF?style=for-the-badge&logo=amazonalexa&logoColor=white" alt="Alexa Logo" />
     <img src="https://img.shields.io/badge/anydesk-EF443B?style=for-the-badge&logo=anydesk&logoColor=white" alt="AnyDesk Logo" />
@@ -38,34 +38,35 @@
     <img src="https://img.shields.io/badge/windows-08b0f0?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Logo" />
     <img src="https://img.shields.io/badge/yaml-CB171E?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML Logo" />
     <img src="https://img.shields.io/badge/zerotier-FFB441?style=for-the-badge&logo=zerotier&logoColor=white" alt="ZeroTier Logo" />
-</div>
+</p>
 
-***
+---
+
 #### My stats:
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 20px;">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Graefff&show_icons=true&theme=dark&include_all_commits=true&count_private=true"  alt="Github Stats">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Graefff&layout=compact&langs_count=7&theme=dark"  alt="Most used Languages"/>
-</div>
+<p align="center">
+    <img height="160em" width="49%" src="https://github-readme-stats.vercel.app/api?username=Graefff&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats">
+    <img height="160em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Graefff&layout=compact&langs_count=7&theme=dark" alt="Most used Languages">
+</p>
 
-***
+---
 
-#### What i'm listening to:
-<div style="display: flex; justify-content: space-around; align-items: center; width: 100%;">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=n699v3ihj9r2xbtqawwxjdsxo&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" 
-         style="width: 50%; max-width: 600px; height: auto;"  alt="Currently playing on Spotify"/>
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=n699v3ihj9r2xbtqawwxjdsxo&count=3" 
-         style="width: 50%; max-width: 600px; height: auto;"  alt="Recently played on Spotify"/>
-</div>
+#### What I'm listening to:
 
-***
+<p align="center">
+    <img  width="49%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=n699v3ihj9r2xbtqawwxjdsxo&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Currently playing on Spotify">
+    <img  width="49%" src="https://spotify-recently-played-readme.vercel.app/api?user=n699v3ihj9r2xbtqawwxjdsxo&count=3" alt="Recently played on Spotify">
+</p>
+
+---
 
 ### Happy to help translate your open-source project between English and pt-br. Contact me if needed.
 
 #### I'm currently helping with the translation of:
-<div style="display: flex; flex-wrap: wrap; justify-content: left; gap: 3px;">
-    <img src="https://img.shields.io/badge/triliumnext-000000?style=for-the-badge&logo=trilium&logoColor=white" alt="TriliumNext Logo" />
-</div>
+
+<p align="left">
+    <img src="https://img.shields.io/badge/triliumnext-000000?style=for-the-badge&logo=trilium&logoColor=white" alt="TriliumNext">
+</p>
 
 <!---
 ![Profile view counter](https://komarev.com/ghpvc/?username=graefff)
