@@ -1,7 +1,7 @@
 ***
 #### TechStack, tools and technologies that i'm familiar with:
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 3px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 3px;">
     <img src="https://img.shields.io/badge/adguard-68BC71?style=for-the-badge&logo=adguard&logoColor=white" alt="AdGuard Logo" />
     <img src="https://img.shields.io/badge/alexa-00CAFF?style=for-the-badge&logo=amazonalexa&logoColor=white" alt="Alexa Logo" />
     <img src="https://img.shields.io/badge/anydesk-EF443B?style=for-the-badge&logo=anydesk&logoColor=white" alt="AnyDesk Logo" />
@@ -43,7 +43,7 @@
 ***
 #### My stats:
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 50px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 20px;">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Graefff&show_icons=true&theme=dark&include_all_commits=true&count_private=true"  alt="Github Stats">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Graefff&layout=compact&langs_count=7&theme=dark"  alt="Most used Languages"/>
 </div>
@@ -51,7 +51,7 @@
 ***
 
 #### What i'm listening to:
-<div style="display: flex; justify-content: center; align-items: center; width: 100%;">
+<div style="display: flex; justify-content: space-around; align-items: center; width: 100%;">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=n699v3ihj9r2xbtqawwxjdsxo&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" 
          style="width: 50%; max-width: 600px; height: auto;"  alt="Currently playing on Spotify"/>
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=n699v3ihj9r2xbtqawwxjdsxo&count=3" 
@@ -63,7 +63,9 @@
 ### Happy to help translate your open-source project between English and pt-br. Contact me if needed.
 
 #### I'm currently helping with the translation of:
-![Static Badge](https://img.shields.io/badge/triliumnext-000000?logo=trilium&link=https%3A%2F%2Fgithub.com%2FTriliumNext%2FNotes)
+<div style="display: flex; flex-wrap: wrap; justify-content: left; gap: 3px;">
+    <img src="https://img.shields.io/badge/triliumnext-000000?style=for-the-badge&logo=trilium&logoColor=white" alt="TriliumNext Logo" />
+</div>
 
 <!---
 ![Profile view counter](https://komarev.com/ghpvc/?username=graefff)
