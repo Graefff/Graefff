@@ -6,6 +6,7 @@
     <img src="https://img.shields.io/badge/alexa-00CAFF?style=for-the-badge&logo=amazonalexa&logoColor=white" alt="Alexa Logo" />
     <img src="https://img.shields.io/badge/anydesk-EF443B?style=for-the-badge&logo=anydesk&logoColor=white" alt="AnyDesk Logo" />
     <img src="https://img.shields.io/badge/calendar-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Google Calendar Logo" />
+    <img src="https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Open AI Logo" />
     <img src="https://img.shields.io/badge/chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Google Chrome Logo" />
     <img src="https://img.shields.io/badge/cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Logo" />
     <img src="https://img.shields.io/badge/cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare Logo" />
