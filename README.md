@@ -46,7 +46,7 @@
 #### My stats:
 
 <p align="center">
-    <img height="160em" width="49%" src="https://github-readme-stats.vercel.app/api?username=Graefff&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats">
+    <img height="160em" width="49%" src="https://readme-stats-iota.vercel.app//api?username=Graefff&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats">
     <img height="160em" width="49%" src="https://readme-stats-iota.vercel.app/api/top-langs/?username=Graefff&layout=compact&langs_count=7&theme=dark&count-private=true" alt="Most used Languages">
 </p>
 
