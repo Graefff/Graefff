@@ -35,6 +35,8 @@
     <img src="https://img.shields.io/badge/tasks-2684FC?style=for-the-badge&logo=googletasks&logoColor=white" alt="Google Tasks Logo" />
     <img src="https://img.shields.io/badge/triliumnext-000000?style=for-the-badge&logo=trilium&logoColor=white" alt="TriliumNext Logo" />
     <img src="https://img.shields.io/badge/truenas-0095d5?style=for-the-badge&logo=truenas&logoColor=white" alt="TrueNAS Logo" />
+    <img src="https://img.shields.io/badge/ubiquiti-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white" alt="Ubiquiti Logo" />
+    <img src="https://img.shields.io/badge/unifi design-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white" alt="Ubiquiti Logo" />
     <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Logo" />
     <img src="https://img.shields.io/badge/windows-08b0f0?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Logo" />
     <img src="https://img.shields.io/badge/yaml-CB171E?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML Logo" />
