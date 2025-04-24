@@ -74,7 +74,6 @@
 ---
 
 ### Happy to help translate your open-source project between English and pt-br. Contact me if needed.
-
 #### I'm currently helping with the translation of:
 
 <p align="left">
