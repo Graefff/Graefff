@@ -2,73 +2,96 @@
 
 <!--suppress ALL -->
 <p align="justify">
-    <img height="32" width="32" src="https://cdn.simpleicons.org/1dot1dot1dot1" title="1.1.1.1" alt="Cloudflare DNS"/>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/adguard" title="Adguard" alt="Adguard"/>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/amazonalexa" title="Amazon Alexa" alt="Amazon Alexa"/>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/googleauthenticator" title="Google Authenticator" alt="Google Authenticator"/>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/bookstack" title="Bookstack" alt="Bookstack"/>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/googlecalendar" title="Google Calendar" alt="Google Calendar"/>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/googlechrome" title="Google Chrome" alt="Google Chrome"/>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/googlecloud" title="Google Cloud" alt="Google Cloud"/>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/cloudflare" title="Cloudflare" alt="Cloudflare"/>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/davinciresolve" title="Davinci Resolve" alt="Davinci Resolve"/>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/debian" title="Debian" alt="Debian Linux"/>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/googledocs" title="Google Docs" alt="Google Docs"/>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/docker" title="Docker" alt="Docker"/>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/googledrive" title="Google Drive" alt="Google Drive"/>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/.env" title=".env" alt=".env"/>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/googleforms" title="Google Forms" alt="Google Forms"/>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/googlegemini" title="Gemini" alt="Gemini"/>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/gitforwindows" title="Git" alt="Git"/>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/github" title="Github" alt="Github"/>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/gmail" title="Gmail" alt="Gmail"/>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/grafana" title="Grafana" alt="Grafana"/>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/googlehome" title="Google Home" alt="Google Home"/>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/homeassistant" title="HomeAssistant" alt="HomeAssistant"/>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/immich" title="Immich" alt="Immich"/>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/influxdb" title="Influxdb" alt="Influxdb"/>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/intellijidea" title="IntelliJ" alt="IntelliJ"/>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/krita" title="Krita" alt="Krita"/>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/linuxmint" title="LinuxMint" alt="LinuxMint"/>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/googlemaps" title="Google Maps" alt="Google Maps"/>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/googlemeet" title="Meet" alt="Meet"/>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/openai" title="ChatGPT" alt="ChatGPT"/>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/paperlessngx" title="PaperlessNGX" alt="PaperlessNGX"/>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/pihole" title="Pi-hole" alt="Pi-hole"/>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/portableappsdotcom" title="PortableApps" alt="PortableApps"/>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/portainer" title="Portainer" alt="Portainer"/>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/proxmox" title="Proxmox" alt="Proxmox"/>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/pterodactyl" title="Pterodactyl" alt="Pterodactyl"/>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/reactiveresume" title="ReactiveResume" alt="ReactiveResume"/>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/googlesheets" title="Sheets" alt="Sheets"/>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/siyuan" title="Siyuan" alt="Siyuan"/>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/googleslides" title="Slides" alt="Slides"/>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/tailscale" title="Tailscale" alt="Tailscale"/>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/googletasks" title="Tasks" alt="Tasks"/>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/trilium" title="TriliumNext" alt="TriliumNext"/>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/truenas" title="TrueNAS" alt="TrueNAS"/>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/ubiquiti" title="Ubiquiti" alt="Ubiquiti"/>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/ubuntu" title="Ubuntu" alt="Ubuntu"/>
-    <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" title="Windows" alt="Windows"/>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/yaml" title="YAML"/>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/zerotier" title="Zerotier" alt="Zerotier"/>
+<!-- A -->
+<img src="https://img.shields.io/badge/adguard-000000?style=for-the-badge&logo=adguard" alt="Adguard">
+<img src="https://img.shields.io/badge/amazon%20alexa-000000?style=for-the-badge&logo=amazonalexa" alt="Amazon Alexa>
+
+<!-- B -->
+<img src="https://img.shields.io/badge/bookstack-000000?style=for-the-badge&logo=bookstack" alt="bookstack">
+
+<!-- C -->
+<img src="https://img.shields.io/badge/cloudflare-000000?style=for-the-badge&logo=cloudflare" alt="cloudflare">
+<img src="https://img.shields.io/badge/google%20chrome-000000?style=for-the-badge&logo=googlechrome" alt="google chrome">
+
+<!-- D -->
+<img src="https://img.shields.io/badge/debian-000000?style=for-the-badge&logo=debian" alt="debian">
+<img src="https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker" alt="docker">
+
+<!-- E -->
+<img src="https://img.shields.io/badge/.env-000000?style=for-the-badge&logo=.env" alt=".env">
+
+<!-- G -->
+<img src="https://img.shields.io/badge/googlegemini-000000?style=for-the-badge&logo=googlegemini" alt="google gemini">
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" alt="GitHub">
+<img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail" alt="Gmail">
+<img src="https://img.shields.io/badge/Google%20Authenticator-000000?style=for-the-badge&logo=googleauthenticator" alt="Google Authenticator">
+<img src="https://img.shields.io/badge/Google%20Calendar-000000?style=for-the-badge&logo=googlecalendar" alt="Google Calendar">
+<img src="https://img.shields.io/badge/Google%20Cloud-000000?style=for-the-badge&logo=googlecloud" alt="Google Cloud">
+<img src="https://img.shields.io/badge/Google%20Docs-000000?style=for-the-badge&logo=googledocs" alt="Google Docs">
+<img src="https://img.shields.io/badge/Google%20Drive-000000?style=for-the-badge&logo=googledrive" alt="Google Drive">
+<img src="https://img.shields.io/badge/Google%20Forms-000000?style=for-the-badge&logo=googleforms" alt="Google Forms">
+<img src="https://img.shields.io/badge/Google%20Home-000000?style=for-the-badge&logo=googlehome" alt="Google Home">
+<img src="https://img.shields.io/badge/Google%20Maps-000000?style=for-the-badge&logo=googlemaps" alt="Google Maps">
+<img src="https://img.shields.io/badge/Google%20Meet-000000?style=for-the-badge&logo=googlemeet" alt="Google Meet">
+<img src="https://img.shields.io/badge/Google%20Sheets-000000?style=for-the-badge&logo=googlesheets" alt="Google Sheets">
+<img src="https://img.shields.io/badge/Google%20Slides-000000?style=for-the-badge&logo=googleslides" alt="Google Slides">
+<img src="https://img.shields.io/badge/Google%20Tasks-000000?style=for-the-badge&logo=googletasks" alt="Google Tasks">
+<img src="https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=grafana" alt="Grafana">
+
+<!-- H -->
+<img src="https://img.shields.io/badge/Home%20Assistant-000000?style=for-the-badge&logo=homeassistant" alt="Home Assistant">
+
+<!-- I -->
+<img src="https://img.shields.io/badge/Immich-000000?style=for-the-badge&logo=immich" alt="Immich">
+<img src="https://img.shields.io/badge/InfluxDB-000000?style=for-the-badge&logo=influxdb" alt="InfluxDB">
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea" alt="IntelliJ IDEA">
+
+<!-- K -->
+<img src="https://img.shields.io/badge/Krita-000000?style=for-the-badge&logo=krita" alt="Krita">
+
+<!-- L -->
+<img src="https://img.shields.io/badge/Linux%20Mint-000000?style=for-the-badge&logo=linuxmint" alt="Linux Mint">
+
+<!-- O -->
+<img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai" alt="ChatGPT (OpenAI)">
+
+<!-- P -->
+<img src="https://img.shields.io/badge/PaperlessNGX-000000?style=for-the-badge&logo=paperlessngx" alt="PaperlessNGX">
+<img src="https://img.shields.io/badge/Pi--hole-000000?style=for-the-badge&logo=pihole" alt="Pi-hole">
+<img src="https://img.shields.io/badge/PortableApps-000000?style=for-the-badge&logo=portableappsdotcom" alt="PortableApps">
+<img src="https://img.shields.io/badge/Portainer-000000?style=for-the-badge&logo=portainer" alt="Portainer">
+<img src="https://img.shields.io/badge/Proxmox-000000?style=for-the-badge&logo=proxmox" alt="Proxmox">
+<img src="https://img.shields.io/badge/Pterodactyl-000000?style=for-the-badge&logo=pterodactyl" alt="Pterodactyl">
+
+<!-- R -->
+<img src="https://img.shields.io/badge/ReactiveResume-000000?style=for-the-badge&logo=reactiveresume" alt="ReactiveResume">
+
+<!-- S -->
+<img src="https://img.shields.io/badge/SiYuan-000000?style=for-the-badge&logo=siyuan" alt="SiYuan">
+
+<!-- T -->
+<img src="https://img.shields.io/badge/Tailscale-000000?style=for-the-badge&logo=tailscale" alt="Tailscale">
+<img src="https://img.shields.io/badge/TriliumNext-000000?style=for-the-badge&logo=trilium" alt="Trilium">
+<img src="https://img.shields.io/badge/TrueNAS-000000?style=for-the-badge&logo=truenas" alt="TrueNAS">
+
+<!-- U -->
+<img src="https://img.shields.io/badge/Ubiquiti-000000?style=for-the-badge&logo=ubiquiti" alt="Ubiquiti">
+<img src="https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=ubuntu" alt="Ubuntu">
+
+<!-- Y -->
+<img src="https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml" alt="YAML">
+
+<!-- Z -->
+<img src="https://img.shields.io/badge/Zerotier-000000?style=for-the-badge&logo=zerotier" alt="Zerotier">
 </p>
 
 ---
 #### My stats:
 
 <p align="center">
-    <img height="160em" width="49%" src="https://readme-stats-iota.vercel.app//api?username=Graefff&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats">
-    <img height="160em" width="49%" src="https://readme-stats-iota.vercel.app/api/top-langs/?username=Graefff&layout=compact&langs_count=7&theme=dark&count-private=true" alt="Most used Languages">
-</p>
-
----
-
-#### What I'm listening to:
-
-<p align="center">
-    <img  width="49%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=n699v3ihj9r2xbtqawwxjdsxo&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Currently playing on Spotify">
-    <img  width="49%" src="https://spotify-recently-played-readme.vercel.app/api?user=n699v3ihj9r2xbtqawwxjdsxo&count=3" alt="Recently played on Spotify">
+    <img height="160em" class="w-full sm:w-[49%] max-w-[400px]" src="https://github-readme-stats.gustavobat-gb.workers.dev/api?username=Graefff&show_icons=true&theme=dark&count-private=true" alt="GitHub Stats">
+    <img height="160em" class="w-full sm:w-[49%] max-w-[400px]" src="https://github-readme-stats.gustavobat-gb.workers.dev/api/top-langs?username=Graefff&layout=compact&langs_count=6&theme=dark&count-private=true" alt="Most used Languages">
 </p>
 
 ---
