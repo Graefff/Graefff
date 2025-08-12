@@ -90,8 +90,8 @@
 #### My stats:
 
 <p align="center">
-    <img height="160em" class="w-full sm:w-[49%] max-w-[400px]" src="https://github-readme-stats.gustavobat-gb.workers.dev/api?username=Graefff&show_icons=true&theme=dark&count-private=true" alt="GitHub Stats">
-    <img height="160em" class="w-full sm:w-[49%] max-w-[400px]" src="https://github-readme-stats.gustavobat-gb.workers.dev/api/top-langs?username=Graefff&layout=compact&langs_count=6&theme=dark&count-private=true" alt="Most used Languages">
+    <img height="160em" class="w-full sm:w-[49%] max-w-[400px]" src="https://github-readme-stats.gustavosouza.workers.dev/api?username=Graefff&show_icons=true&theme=dark&count-private=true" alt="GitHub Stats">
+    <img height="160em" class="w-full sm:w-[49%] max-w-[400px]" src="https://github-readme-stats.gustavosouza.workers.dev/api/top-langs?username=Graefff&layout=compact&langs_count=6&theme=dark&count-private=true" alt="Most used Languages">
 </p>
 
 ---
